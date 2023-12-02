@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "domain": "ac_infinity-bluetooth",
+  "domain": "ac_infinity_bluetooth",
   "name": "AC Infinity",
   "bluetooth": [
     {
