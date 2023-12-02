@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "domain": "ac_infinity_bluetooth",
-  "name": "AC Infinity Bluetooth",
+  "name": "AC Bluetooth",
   "bluetooth": [
     {
       "connectable": true,
